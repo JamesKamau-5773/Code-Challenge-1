@@ -17,7 +17,7 @@ const totalMilk = numberofCups * milkperCup;
 const totalteaLeaves = numberofCups * TeaLeavesperCup;
 const totalsugar = numberofCups * sugarperCup;
 
-// Display the results using  (backticks ` ` instead of single quotes)
+// Display the results using  (backticks ` `)
   console.log(`for ${numberofCups} cup(s) of chai  you need:`);
   console.log(`- water: ${totalWater} ml`);
   console.log(`- milk: ${totalMilk} ml`);
